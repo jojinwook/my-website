@@ -13,7 +13,7 @@ title                    : "Chehun Han"
 title_separator          : "-"
 name                     : &name "Chehun Han"
 description              : &description "I major in AI and have interest in 🚘autonomous driving and 3D vision."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://nyangche.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nyangche/nyangche.github.io"
 
