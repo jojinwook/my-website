@@ -22,7 +22,7 @@ repository               : "nyangche/nyangche.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.JPG"
+  avatar           : "photo_0.jpg"
   name             : "Chehun Han"
   bio              : "I major in AI 🤖 and have interest in autonomous driving🚘 and 3D vision."
   location         : "Seoul, Korea"
