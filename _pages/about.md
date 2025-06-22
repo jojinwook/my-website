@@ -31,6 +31,7 @@ Experiences
 
 **Research Intern**
 - PAI Lab @EWHA Mar. 2024 ~ Jan. 2025
+- Computer Graphics Lab @POSTECH Jun. 2025 ~ Aug. 2025
 
 
 <br>

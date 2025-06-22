@@ -20,6 +20,9 @@ Work experience
   * Advisor: [Prof. Junhyug Noh](http://www.ewha.ac.kr/ewha/professor/info.do?mode=view&pId=LK0DaxFnRPPwFOB%2FSShoqg%3D%3D)
   * Thesis: Gait Re-Identification based on IMU data
 
+* Jun. 2025 ~ Aug. 2025: Research Intern
+  * Computer Graphics Lab @POSTECH
+  * Advisor: Prof. Seungyong Lee
 
 
 Publications
