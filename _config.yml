@@ -13,9 +13,9 @@ title                    : "Chehun Han"
 title_separator          : "-"
 name                     : &name "Chehun Han"
 description              : &description "I major in AI and have interest in 🚘autonomous driving and 3D vision."
-url                      : https://nyangche.github.io 
+url                      : https://chehun16.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nyangche/nyangche.github.io"
+repository               : "chehun16/chehun16.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -44,7 +44,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "nyangche"
+  github           : "chehun16"
   linkedin         : "https://www.linkedin.com/in/chehunhan1216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BotP96hlWTEy4EzAwXnfLmg%3D%3D"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
