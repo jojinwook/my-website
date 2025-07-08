@@ -21,8 +21,9 @@ Work experience
   * Thesis: Gait Re-Identification based on IMU data
 
 * Jun. 2025 ~ Aug. 2025: Research Intern
-  * Computer Graphics Lab @POSTECH
-  * Advisor: Prof. Seungyong Lee
+  * [Computer Graphics Lab](https://cg.postech.ac.kr/) @POSTECH
+  * Advisor: [Prof. Seungyong Lee](https://cg.postech.ac.kr/leesy/)
+  * Thesis: Indoor 3D Reconstruction based on 3DGS
 
 
 Publications
