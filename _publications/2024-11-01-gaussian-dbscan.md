@@ -32,7 +32,7 @@ Additionally, **<span style="color: IndianRed;">memory usage was reduced by appr
 
 <br>
 
-<a href="https://github.com/nyangche/autonomous-engine" style="text-decoration: none; display: inline-flex; align-items: center; padding: 6px 10px; background-color: #333; color: white; border-radius: 5px; font-size: 14px; font-weight: bold;">
+<a href="https://github.com/chehun16/autonomous-engine" style="text-decoration: none; display: inline-flex; align-items: center; padding: 6px 10px; background-color: #333; color: white; border-radius: 5px; font-size: 14px; font-weight: bold;">
     <img src="https://github.com/fluidicon.png" alt="GitHub" style="width: 18px; height: 18px; margin-right: 5px; filter: invert(1);">
     3DGS_Diet
 </a>
