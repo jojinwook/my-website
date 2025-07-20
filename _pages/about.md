@@ -12,12 +12,11 @@ redirect_from:
 Welcome to Chehun's page 🚗
 -----
 
-Hi! I am Chehun Han. I am studying **AI** at EWHA Womans University. I am ❤️ interested in **3D Vision, 🚘Autonomous Driving🚘, and Computer Vision**.
+Hi! I am Chehun Han. I am studying AI at EWHA Womans University. I am ❤️ interested in 3D Reconstruction and 🚘Autonomous Driving🚘.
 
-My interest in 3D Vision started when I worked on optimizing 3D Gaussian Splatting (3DGS) for efficient deep learning architectures. During my autonomous driving project, I developed an **end-to-end self-driving system** that integrated **object detection, lane detection, depth estimation, planning, and control.** Seeing the vehicle respond and move on its own was an exciting experience that deepened my passion for this field.
+My interest in 3D Reconstruction started when I worked on optimizing 3D Gaussian Splatting (3DGS) for efficient deep learning architectures. During my autonomous driving project, I developed an **end-to-end self-driving system** that integrated **object detection, lane detection, depth estimation, planning, and control.** Seeing the vehicle respond and move on its own was an exciting experience that deepened my passion for this field.
 
-I've also worked on projects related to audio deep learning, and data science. All of these projects were conducted as part of <a href="https://deepdaiv.oopy.io/" style="color: #264a8e; text-decoration: none;">**deepdaiv**</a>, an AI project team. I'm always eager to explore new challenges in AI!
-
+I've also worked on projects related to audio deep learning, and data science. All of these projects were conducted as part of <a href="https://deepdaiv.oopy.io/" style="color: #264a8e; text-decoration: none;">**deepdaiv**</a>, an AI project team. 
 <br>
 
 Experiences
