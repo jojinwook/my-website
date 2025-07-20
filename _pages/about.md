@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to Chehun's page 🚗
+Welcome to Chehun's page 🐈‍⬛
 -----
 
 Hi! I am Chehun Han. I am studying **AI** at EWHA Womans University. I am interested in **3D Reconstruction** and 🚘**Autonomous Driving**🚘.
