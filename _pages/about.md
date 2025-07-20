@@ -12,7 +12,7 @@ redirect_from:
 Welcome to Chehun's page 🚗
 -----
 
-Hi! I am Chehun Han. I am studying AI at EWHA Womans University. I am ❤️ interested in 3D Reconstruction and 🚘Autonomous Driving🚘.
+Hi! I am Chehun Han. I am studying **AI** at EWHA Womans University. I am interested in **3D Reconstruction** and 🚘**Autonomous Driving**🚘.
 
 My interest in 3D Reconstruction started when I worked on optimizing 3D Gaussian Splatting (3DGS) for efficient deep learning architectures. During my autonomous driving project, I developed an **end-to-end self-driving system** that integrated **object detection, lane detection, depth estimation, planning, and control.** Seeing the vehicle respond and move on its own was an exciting experience that deepened my passion for this field.
 
