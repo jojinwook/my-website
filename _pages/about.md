@@ -12,7 +12,7 @@ redirect_from:
 Welcome to Chehun's page 🐈‍⬛
 -----
 
-Hi! I am Chehun Han studying **AI** at EWHA Womans University. I have interest in **3D Reconstruction** and 🚘**Autonomous Driving**🚘.
+Hi! I am Chehun Han. I'm studying **AI** at EWHA Womans University. I have interest in **3D Reconstruction** and 🚘**Autonomous Driving**🚘.
 
 <br>
 
