@@ -20,22 +20,6 @@ Hi! I am Chehun Han. I'm studying **AI** at EWHA Womans University. I have inter
 
 <br>
 
-Experiences
-------
-<a href="https://deepdaiv.oopy.io/" style="color: #264a8e; text-decoration: none;">**deepdaiv**</a> Apr. 2023 ~ Feb. 2025
-- '23s Data Analysis
-- '23f Audio
-- ‘24w Audio
-- ‘24s Deep Learning Architecture
-- '24f Self driving
-
-**Research Intern**
-- PAI Lab @EWHA Mar. 2024 ~ Jan. 2025
-- [Computer Graphics Lab](https://cg.postech.ac.kr/) @POSTECH Jun. 2025 ~ Aug. 2025
-
-
-<br>
-
 Publications
 ------
 
@@ -54,3 +38,21 @@ Publications
     <a href="/files/paper1.pdf" target="_blank">Paper</a>
   </div>
 </div>
+
+<br>
+
+Experiences
+------
+
+**Research Intern**
+- PAI Lab @EWHA Mar. 2024 ~ Jan. 2025
+- [Computer Graphics Lab](https://cg.postech.ac.kr/) @POSTECH Jun. 2025 ~ Aug. 2025
+
+
+<a href="https://deepdaiv.oopy.io/" style="color: #264a8e; text-decoration: none;">**deepdaiv**</a> Apr. 2023 ~ Feb. 2025
+- '23s Data Analysis
+- '23f Audio
+- ‘24w Audio
+- ‘24s Deep Learning Architecture
+- '24f Self driving
+
