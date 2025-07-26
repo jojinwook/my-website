@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chehun Han"
+title                    : "Chehun's Page'"
 title_separator          : "-"
 name                     : &name "Chehun's Page"
 description              : &description "I major in AI and have interest in 🚘autonomous driving and 3D Reconstruction."
