@@ -21,38 +21,15 @@ Hi! I am Chehun Han. I'm studying **AI** at EWHA Womans University. I have inter
 <br>
 
 
-
-<br>
-
 Publications
 ------
 
-
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
-  <img src="/images/3dgs.png" alt="3dgs"
-       style="width: 300px; object-fit: cover; border-radius: 5px;">
-  <div style="font-size: 16px;">
-    <div style="background-color: #b7d3ffff; color: white; font-size: 12px; font-weight: bold;
-                padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
-      IEIE 2024
-    </div><br>
-    <span class="papertitle" style="font-size: 16px;"><strong>Developing a Model for Improving 3D Gaussian Splatting Performance Based on DBSCAN</strong></span><br>
-    Dayeon Woo<sup>‡1</sup>, Eunseo Seo<sup>‡2</sup>, <strong>Chehun Han<sup>‡3</sup></strong>, Yeonkyung Lee<sup>‡4</sup>, <sup>*</sup>Changgyun Jin<sup>5</sup><br>
-    <strong>Published in IEIE 2024 Nov.</strong><br>
-    <a href="/files/paper1.pdf" target="_blank">Paper</a>
-  </div>
-</div>
-
-<br>
-
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; margin-bottom: 32px;">
-  <!-- 이미지 -->
   <img src="/images/3dgs.png" alt="3dgs"
        style="width: 300px; max-width: 100%; object-fit: cover; border-radius: 5px; flex-shrink: 0;">
 
-  <!-- 텍스트 박스 -->
   <div style="font-size: 16px; min-width: 200px; flex: 1;">
-    <div style="background-color: #4a90e2; color: white; font-size: 12px; font-weight: bold;
+    <div style="background-color: #8ab1ddff; color: white; font-size: 12px; font-weight: bold;
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
       IEIE 2024
     </div><br>
