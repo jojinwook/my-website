@@ -52,7 +52,7 @@ Publications
 Experiences
 ------
 
-Research Intern
+### Research Intern
 
 [PAI Lab @EWHA](https://pai.ewha.ac.kr/) Mar. 2024 ~ Jan. 2025
 - Advisor: [Prof. Junhyug Noh](https://www.ewha.ac.kr/ewha/professor/info.do?mode=view&pId=LK0DaxFnRPPwFOB%2FSShoqg%3D%3D)
@@ -64,7 +64,7 @@ Research Intern
 
 <br>
 
-<a href="https://deepdaiv.oopy.io/" style="color: #264a8e; text-decoration: none;">**deepdaiv**</a> Apr. 2023 ~ Feb. 2025
+### <a href="https://deepdaiv.oopy.io/" style="color: #264a8e; text-decoration: none;">**deepdaiv**</a> Apr. 2023 ~ Feb. 2025
 - '23s Data Analysis
 - '23f Audio
 - ‘24w Audio
