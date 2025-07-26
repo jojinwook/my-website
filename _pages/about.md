@@ -43,8 +43,6 @@ Publications
     
     Dayeon Woo<sup>‡1</sup>, Eunseo Seo<sup>‡2</sup>, <strong>Chehun Han<sup>‡3</sup></strong>, 
     Yeonkyung Lee<sup>‡4</sup>, and <sup>*</sup>Changgyun Jin<sup>5</sup><br>
-
-    <span style="font-style: italic;">‡ Equal contribution, * Corresponding author</span><br>
     
     <strong>Published in IEIE 2024 Nov.</strong><br>
     
