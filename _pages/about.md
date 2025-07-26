@@ -36,19 +36,20 @@ Experiences
 
 <br>
 
-News
+Publications
 ------
 
-IEIE Nov. 2024
-<style>
-  .no-bullet {
-    list-style: none;
-    padding-left: 0;
-  }
-</style>
 
-<ul class="no-bullet">
-  {% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-</ul>
+<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
+  <img src="/images/3dgs.png" alt="3dgs"
+       style="width: 300px; object-fit: cover; border-radius: 5px;">
+  <div style="font-size: 16px;">
+    <div style="background-color: #b7d3ffff; color: white; font-size: 12px; font-weight: bold;
+                padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
+      IEIE 2024
+    </div><br>
+    <span class="papertitle" style="font-size: 16px;"><strong>Developing a Model for Improving 3D Gaussian Splatting Performance Based on DBSCAN</strong></span><br>
+    Dayeon Woo‡1, Eunseo Seo‡2, <strong>Chehun Han‡3</strong>, Yeonkyung Lee‡4, *Changgyun Jin5<br>
+    <strong>Published in IEIE 2024 Nov.</strong>
+  </div>
+</div>
