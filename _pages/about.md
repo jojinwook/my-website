@@ -12,8 +12,8 @@ redirect_from:
 Hi! I am Chehun Han. I'm studying **AI** at EWHA Womans University. I have interest in **3D Reconstruction** and **Autonomous Driving**🚘.
 
 <p align="center">
-  <a href="chehunhan16@gmail.com">E-mail</a> /
-  <a href="/path/to/your_cv.pdf" target="_blank">CV</a> /
+  <a href="mailto:chehunhan16@gmail.com">E-mail</a> /
+  <a href="/files/cv_0726.pdf" target="_blank">CV</a> /
   <a href="https://github.com/chehun16">Github</a>
 </p>
 
