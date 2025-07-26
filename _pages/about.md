@@ -25,7 +25,7 @@ Publications
 ------
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; margin-bottom: 32px;">
-  <img src="/images/3dgs.png" alt="3dgs"
+  <img src="/images/3dgs_1.png" alt="3dgs"
      style="width: 300px; max-width: 100%; object-fit: cover;
             border-radius: 5px; flex-shrink: 0;
             box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);">
