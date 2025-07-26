@@ -29,7 +29,7 @@ Publications
        style="width: 300px; max-width: 100%; object-fit: cover; border-radius: 5px; flex-shrink: 0;">
 
   <div style="font-size: 16px; min-width: 200px; flex: 1;">
-    <div style="background-color: #8ab1ddff; color: white; font-size: 12px; font-weight: bold;
+    <div style="background-color: #a7c3e4ff; color: white; font-size: 12px; font-weight: bold;
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
       IEIE 2024
     </div><br>
@@ -45,7 +45,7 @@ Publications
     
     <strong>Published in IEIE 2024 Nov.</strong><br>
     
-    <a href="/files/paper1.pdf" target="_blank">📄 Paper</a>
+    <a href="/files/paper1.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
 
