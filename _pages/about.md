@@ -49,7 +49,7 @@ Publications
       IEIE 2024
     </div><br>
     <span class="papertitle" style="font-size: 16px;"><strong>Developing a Model for Improving 3D Gaussian Splatting Performance Based on DBSCAN</strong></span><br>
-    Dayeon Woo‡1, Eunseo Seo‡2, <strong>Chehun Han‡3</strong>, Yeonkyung Lee‡4, *Changgyun Jin5<br>
+    Dayeon Woo<sup>‡1</sup>, Eunseo Seo<sup>‡2</sup>, <strong>Chehun Han<sup>‡3</sup></strong>, Yeonkyung Lee<sup>‡4</sup>, <sup>*</sup>Changgyun Jin<sup>5</sup><br>
     <strong>Published in IEIE 2024 Nov.</strong>
   </div>
 </div>
