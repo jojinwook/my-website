@@ -9,9 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I am Chehun Han. I'm studying **AI** at EWHA Womans University. I have interest in **3D Reconstruction** and 🚘**Autonomous Driving**🚘.
+Hi! I am Chehun Han. I'm studying **AI** at EWHA Womans University. I have interest in **3D Reconstruction** and **Autonomous Driving**🚘.
 
-E-mail / CV / Github
+<p align="center">
+  <a href="chehunhan16@gmail.com">E-mail</a> /
+  <a href="/path/to/your_cv.pdf" target="_blank">CV</a> /
+  <a href="https://github.com/chehun16">Github</a>
+</p>
+
 
 <br>
 
