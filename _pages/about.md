@@ -26,7 +26,9 @@ Publications
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; margin-bottom: 32px;">
   <img src="/images/3dgs.png" alt="3dgs"
-       style="width: 300px; max-width: 100%; object-fit: cover; border-radius: 5px; flex-shrink: 0;">
+     style="width: 300px; max-width: 100%; object-fit: cover;
+            border-radius: 5px; flex-shrink: 0;
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);">
 
   <div style="font-size: 16px; min-width: 200px; flex: 1;">
     <div style="background-color: #a7c3e4ff; color: white; font-size: 12px; font-weight: bold;
