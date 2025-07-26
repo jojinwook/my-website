@@ -25,7 +25,7 @@ Visit my [portfolio](https://chehun16.github.io/portfolio/) / [publications](htt
 Publications
 ------
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; margin-bottom: 32px;">
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/3dgs_1.png" alt="3dgs"
      style="width: 300px; max-width: 100%; object-fit: cover;
             border-radius: 5px; flex-shrink: 0;
