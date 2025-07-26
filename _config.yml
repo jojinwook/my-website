@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Chehun Han"
 title_separator          : "-"
-name                     : &name "Chehun Han"
+name                     : &name "Chehun's Page"
 description              : &description "I major in AI and have interest in 🚘autonomous driving and 3D Reconstruction."
 url                      : https://chehun16.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

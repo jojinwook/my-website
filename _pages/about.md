@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chehun's Page'"
+title: "Chehun Han"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 Hi! I am Chehun Han. I'm studying **AI** at EWHA Womans University. I have interest in **3D Reconstruction** and 🚘**Autonomous Driving**🚘.
+
+E-mail / CV / Github
 
 <br>
 
