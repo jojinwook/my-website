@@ -55,11 +55,11 @@ Experiences
 Research Intern
 
 [PAI Lab @EWHA](https://pai.ewha.ac.kr/) Mar. 2024 ~ Jan. 2025
-- Advisor: Prof. Junhyug Noh
+- Advisor: [Prof. Junhyug Noh](https://www.ewha.ac.kr/ewha/professor/info.do?mode=view&pId=LK0DaxFnRPPwFOB%2FSShoqg%3D%3D)
 - Thesis: Gait Re-Identification based on IMU data
 
 [Computer Graphics Lab @POSTECH](https://cg.postech.ac.kr/) Jun .2025 ~ Aug .2025
-- Advisor: Prof.Seungyong Lee
+- Advisor: [Prof. Seungyong Lee](https://cg.postech.ac.kr/leesy/)
 - Thesis: Improving the quality of indoor 3D Reconstruction based on 3DGS
 
 <br>
