@@ -52,7 +52,15 @@ Publications
 Experiences
 ------
 
+Research Intern
 
+[PAI Lab @EWHA](https://pai.ewha.ac.kr/) Mar. 2024 ~ Jan. 2025
+- Advisor: Prof. Junhyug Noh
+- Thesis: Gait Re-Identification based on IMU data
+
+[Computer Graphics Lab @POSTECH](https://cg.postech.ac.kr/) Jun .2025 ~ Aug .2025
+- Advisor: Prof.Seungyong Lee
+- Thesis: Improving the quality of indoor 3D Reconstruction based on 3DGS
 
 <a href="https://deepdaiv.oopy.io/" style="color: #264a8e; text-decoration: none;">**deepdaiv**</a> Apr. 2023 ~ Feb. 2025
 - '23s Data Analysis
