@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I am Chehun Han. I'm studying **AI** at EWHA Womans University. I have interest in **3D Reconstruction** and **Autonomous Driving**🚘.
+Hi! I am Chehun Han. I'm studying **AI** at EWHA Womans University. I have interest in **3D Reconstruction** and **Autonomous Driving** 🚘.
 
 <p align="center">
   <a href="mailto:chehunhan16@gmail.com">E-mail</a> |
