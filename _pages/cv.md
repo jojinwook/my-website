@@ -17,7 +17,7 @@ Work experience
 ------
 * Mar. 2024 ~ Jan. 2025: Research Intern
   * PAI Lab @EWHA
-  * Advisor: [Prof. Junhyug Noh](http://www.ewha.ac.kr/ewha/professor/info.do?mode=view&pId=LK0DaxFnRPPwFOB%2FSShoqg%3D%3D)
+  * Advisor: [Prof. Junhyug Noh](https://junhyug.github.io/)
   * Thesis: Gait Re-Identification based on IMU data
 
 * Jun. 2025 ~ Aug. 2025: Research Intern
