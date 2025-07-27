@@ -67,7 +67,8 @@ Experiences
 
 <br>
 
-### <a href="https://deepdaiv.oopy.io/" style="color: #264a8e; text-decoration: none;">**deepdaiv**</a> Apr. 2023 ~ Feb. 2025
+### <a href="https://deepdaiv.oopy.io/" style="color: #264a8e; text-decoration: none;">**deepdaiv**</a> 
+Apr. 2023 ~ Feb. 2025
 - '23s Data Analysis
 - '23f Audio
 - ‘24w Audio
