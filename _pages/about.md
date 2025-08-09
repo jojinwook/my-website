@@ -39,7 +39,9 @@ redirect_from:
   <a href="https://github.com/chehun16">Github</a>
 </p> -->
 
+<!--
 Visit my [portfolio](https://chehun16.github.io/portfolio/) / [publications](https://chehun16.github.io/publications/) page also :)
+-->
 
 <br>
 
