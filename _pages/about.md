@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+{% include base_path %}
 <style>
 ul {
   list-style: none; /* 기본 점 제거 */
@@ -17,7 +19,6 @@ li::before {
   margin-right: 0.5em;
 }
 </style>
-{% include base_path %}
 
 <ul>📌 20세 ~ 24세 | <br />
   <li> - QA 자동화 및 테스트 운영 </li>
