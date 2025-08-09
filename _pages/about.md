@@ -9,15 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-📌 20세 ~ 24세 | <p />
-  - QA 자동화 및 테스트 운영 <br />
-  - Web, Android, iOS 플랫폼별 기능 테스트 자동화 개발 <br />
-  - Smoke Testing 및 기능 안정성 검증 <br />
-  - 대시보드 및 통계 시스템 테스트 수행 <br />
-  - 모바일 트래킹 및 광고 포스트백(Postback) 테스트 <br />
-  - Amazon S3 기반 데이터 덤핑 시스템 테스트 <br />
-  - 고객사 포스트백 연동 관리 및 테스트 시나리오 설계 <br />
-  - KYC 검수 프로세스 자동화 시스템 설계 및 구현 <p>
+<ul>📌 20세 ~ 24세 | <br />
+  <li> - QA 자동화 및 테스트 운영 </li>
+  <li> - Web, Android, iOS 플랫폼별 기능 테스트 자동화 개발 </li>
+  <li> - Smoke Testing 및 기능 안정성 검증 </li>
+  <li> - 대시보드 및 통계 시스템 테스트 수행 </li>
+  <li> - 모바일 트래킹 및 광고 포스트백(Postback) 테스트 </li>
+  <li> - Amazon S3 기반 데이터 덤핑 시스템 테스트 </li>
+  <li> - 고객사 포스트백 연동 관리 및 테스트 시나리오 설계 </li>
+  <li> - KYC 검수 프로세스 자동화 시스템 설계 및 구현 </li>
+</ul>  
 📌 24세 ~ 25세 |  <p />
   - 데이터 파이프라인 및 프론트엔드 개발 <br />
   - Apache Airflow 기반 ETL 스케줄링 시스템 운영 및 유지보수 <br />
