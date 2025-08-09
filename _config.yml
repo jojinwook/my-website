@@ -22,7 +22,7 @@ repository               : "chehun16/chehun16.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jo.jpg"
+  avatar           : "/my-website/images/jo.jpg"
   name             : "Jinwook Jo"
   bio              : "한번 뿐인 인생 행복하게 살아보자!"
   location         : "Seoul, Korea"
