@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chehun's Page"
+title                    : "Jinwook's Page"
 title_separator          : "-"
-name                     : &name "Chehun's Page"
+name                     : &name "Jinwook's Page"
 description              : &description "I major in AI and have interest in 🚘autonomous driving and 3D Reconstruction."
 url                      : https://chehun16.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "chehun16/chehun16.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_0.jpg"
-  name             : "Chehun Han"
-  bio              : "I major in AI 🤖 and have interest in autonomous driving 🚘 and 3D Reconstruction."
+  avatar           : "jo.jpg"
+  name             : "Jinwook Jo"
+  bio              : "한번 뿐인 인생 행복하게 살아보자!"
   location         : "Seoul, Korea"
-  employer         : "EWHA Womans University"
+  # employer         : "EWHA Womans University"
   uri              : # URL
-  email            : "chehunhan16@gmail.com" 
+  email            : "ginus0823@gmail.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
@@ -44,8 +44,8 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "chehun16"
-  linkedin         : "chehunhan1216"
+  github           : "jojinwook"
+  linkedin         : "jojinwook"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

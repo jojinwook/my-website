@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chehun Han"
+title: "Jinwook Jo"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,13 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I am Chehun Han. I'm studying **AI** at EWHA Womans University. I have interest in **3D Reconstruction** and **Autonomous Driving** 🚘.
+📌 20세 ~ 24세 | <br />
+  - QA 자동화 및 테스트 운영 <br />
+  - Web, Android, iOS 플랫폼별 기능 테스트 자동화 개발 <br />
+  - Smoke Testing 및 기능 안정성 검증 <br />
+  - 대시보드 및 통계 시스템 테스트 수행 <br />
+  - 모바일 트래킹 및 광고 포스트백(Postback) 테스트 <br />
+  - Amazon S3 기반 데이터 덤핑 시스템 테스트 <br />
+  - 고객사 포스트백 연동 관리 및 테스트 시나리오 설계 <br />
+  - KYC 검수 프로세스 자동화 시스템 설계 및 구현 <br />
+📌 24세 ~ 25세 |  <br />
+  - 데이터 파이프라인 및 프론트엔드 개발 <br />
+  - Apache Airflow 기반 ETL 스케줄링 시스템 운영 및 유지보수 <br />
+  - Circle CI를 활용한 자동화 테스트 및 Continuous Deployment 구성 <br />
+  - 사내 서비스 프론트엔드 UI 리뉴얼 개발 참여 <br />
+  - AWS Glue, S3, Athena 기반 데이터 웨어하우스 유지보수 및 쿼리 최적화 <br />
+📌 25세 ~ 27세 |  <br />
+  - 건설 현장 실무 경험 <br />
+  - 건설 현장 내 형틀목수로 활동하며 구조물 설치 및 해체 수행 <br />
+  - 안전관리 기준 준수 및 팀 단위 협업 업무 경험 <br />
+  - 체력 기반 업무 지속 수행을 통한 현장 적응력 강화 <br />
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:chehunhan16@gmail.com">E-mail</a> |
   <a href="/files/cv_0803.pdf" target="_blank">CV</a> |
   <a href="https://github.com/chehun16">Github</a>
-</p>
+</p> -->
 
 Visit my [portfolio](https://chehun16.github.io/portfolio/) / [publications](https://chehun16.github.io/publications/) page also :)
 
@@ -67,11 +86,12 @@ Experiences
 
 <br>
 
-### <a href="https://deepdaiv.oopy.io/" style="color: #264a8e; text-decoration: none;">**deepdaiv**</a> 
+
+<!-- ### <a href="https://deepdaiv.oopy.io/" style="color: #264a8e; text-decoration: none;">**deepdaiv**</a> 
 Apr. 2023 ~ Feb. 2025
 - '23s Data Analysis
 - '23f Audio
 - ‘24w Audio
 - ‘24s Deep Learning Architecture
-- '24f Self driving
+- '24f Self driving -->
 
