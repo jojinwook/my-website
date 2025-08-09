@@ -19,13 +19,13 @@ redirect_from:
   - 고객사 포스트백 연동 관리 및 테스트 시나리오 설계  
   - KYC 검수 프로세스 자동화 시스템 설계 및 구현  
 
-<ul>📌 24세 ~ 25세 |  <br />
-  <li> - 데이터 파이프라인 및 프론트엔드 개발 </li>
-  <li> - Apache Airflow 기반 ETL 스케줄링 시스템 운영 및 유지보수 </li>
-  <li> - Circle CI를 활용한 자동화 테스트 및 Continuous Deployment 구성 </li>
-  <li> - 사내 서비스 프론트엔드 UI 리뉴얼 개발 참여 </li>
-  <li> - AWS Glue, S3, Athena 기반 데이터 웨어하우스 유지보수 및 쿼리 최적화 </li>
-</ul>
+📌 24세 ~ 25세 |
+  - 데이터 파이프라인 및 프론트엔드 개발  
+  - Apache Airflow 기반 ETL 스케줄링 시스템 운영 및 유지보수  
+  - Circle CI를 활용한 자동화 테스트 및 Continuous Deployment 구성  
+  - 사내 서비스 프론트엔드 UI 리뉴얼 개발 참여  
+  - AWS Glue, S3, Athena 기반 데이터 웨어하우스 유지보수 및 쿼리 최적화  
+
 <ul>📌 25세 ~ 27세 |  <br />
   <li> - 건설 현장 실무 경험 </li>
   <li> - 건설 현장 내 형틀목수로 활동하며 구조물 설치 및 해체 수행 </li>
