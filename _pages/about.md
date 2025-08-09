@@ -6,7 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+ul {
+  list-style: none; /* 기본 점 제거 */
+  padding-left: 0;  /* 왼쪽 여백 제거 */
+}
 
+li::before {
+  content: "- ";     /* 하이픈 추가 */
+  margin-right: 0.5em;
+}
+</style>
 {% include base_path %}
 
 <ul>📌 20세 ~ 24세 | <br />
