@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-📌 20세 ~ 24세 | <br />
+  📌 20세 ~ 24세 | <br />
   - QA 자동화 및 테스트 운영 <br />
   - Web, Android, iOS 플랫폼별 기능 테스트 자동화 개발 <br />
   - Smoke Testing 및 기능 안정성 검증 <br />
@@ -23,7 +23,7 @@ redirect_from:
   - Apache Airflow 기반 ETL 스케줄링 시스템 운영 및 유지보수 <br />
   - Circle CI를 활용한 자동화 테스트 및 Continuous Deployment 구성 <br />
   - 사내 서비스 프론트엔드 UI 리뉴얼 개발 참여 <br />
-  - AWS Glue, S3, Athena 기반 데이터 웨어하우스 유지보수 및 쿼리 최적화 
+  - AWS Glue, S3, Athena 기반 데이터 웨어하우스 유지보수 및 쿼리 최적화 <p>
 📌 25세 ~ 27세 |  <br />
   - 건설 현장 실무 경험 <br />
   - 건설 현장 내 형틀목수로 활동하며 구조물 설치 및 해체 수행 <br />
