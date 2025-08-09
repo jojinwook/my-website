@@ -19,17 +19,19 @@ redirect_from:
   <li> - 고객사 포스트백 연동 관리 및 테스트 시나리오 설계 </li>
   <li> - KYC 검수 프로세스 자동화 시스템 설계 및 구현 </li>
 </ul>  
-📌 24세 ~ 25세 |  <p />
-  - 데이터 파이프라인 및 프론트엔드 개발 <br />
-  - Apache Airflow 기반 ETL 스케줄링 시스템 운영 및 유지보수 <br />
-  - Circle CI를 활용한 자동화 테스트 및 Continuous Deployment 구성 <br />
-  - 사내 서비스 프론트엔드 UI 리뉴얼 개발 참여 <br />
-  - AWS Glue, S3, Athena 기반 데이터 웨어하우스 유지보수 및 쿼리 최적화 <p>
-📌 25세 ~ 27세 |  <p />
-  - 건설 현장 실무 경험 <br />
-  - 건설 현장 내 형틀목수로 활동하며 구조물 설치 및 해체 수행 <br />
-  - 안전관리 기준 준수 및 팀 단위 협업 업무 경험 <br />
-  - 체력 기반 업무 지속 수행을 통한 현장 적응력 강화 <br />
+<ul>📌 24세 ~ 25세 |  <br />
+  <li> - 데이터 파이프라인 및 프론트엔드 개발 </li>
+  <li> - Apache Airflow 기반 ETL 스케줄링 시스템 운영 및 유지보수 </li>
+  <li> - Circle CI를 활용한 자동화 테스트 및 Continuous Deployment 구성 </li>
+  <li> - 사내 서비스 프론트엔드 UI 리뉴얼 개발 참여 </li>
+  <li> - AWS Glue, S3, Athena 기반 데이터 웨어하우스 유지보수 및 쿼리 최적화 </li>
+</ul>
+<ul>📌 25세 ~ 27세 |  <br />
+  <li> - 건설 현장 실무 경험 </li>
+  <li> - 건설 현장 내 형틀목수로 활동하며 구조물 설치 및 해체 수행 </li>
+  <li> - 안전관리 기준 준수 및 팀 단위 협업 업무 경험 </li>
+  <li> - 체력 기반 업무 지속 수행을 통한 현장 적응력 강화 </li>
+</ul>
 
 <!-- <p align="center">
   <a href="mailto:chehunhan16@gmail.com">E-mail</a> |
